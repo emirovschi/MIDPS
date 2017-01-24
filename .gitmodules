@@ -1,0 +1,12 @@
+[submodule "MIDPS-1"]
+	path = MIDPS-1
+	url = https://github.com/emirovschi/MIDPS-1
+[submodule "MIDPS-2"]
+	path = MIDPS-2
+	url = https://github.com/emirovschi/MIDPS-2
+[submodule "MIDPS-3"]
+	path = MIDPS-3
+	url = https://github.com/emirovschi/MIDPS-3
+[submodule "MIDPS-4"]
+	path = MIDPS-4
+	url = https://github.com/emirovschi/MIDPS-4
